@@ -1,0 +1,9 @@
+# Install PyTorch (CPU build) FIRST:  pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
+pymupdf
+rank_bm25
+numpy
+pandas
+openpyxl
+ipykernel
+ipython
